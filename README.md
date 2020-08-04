@@ -8,7 +8,7 @@ Test your memory with this memory game. On the game board, there are always two 
   - CSS
   - JavaScript
   
-  Visit this link to check this website: https://avengers-cards-scrollable-js.netlify.app/
+  Visit this link to check this website: https://memory-card-game-js.netlify.app/
   
   
   <img src="img/screenshot.png" width= "400" height= "400" >
